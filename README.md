@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Hey, I'm Mayank  👋  
 
 **Coder 💻**
