@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Mayank 👋</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | MERN Stack | DSA |</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
