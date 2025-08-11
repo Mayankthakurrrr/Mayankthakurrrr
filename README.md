@@ -9,7 +9,7 @@
 - 💻 Passionate about **Web Development, C++, DSA**  
 - 🌱 Currently learning **Advanced DSA & MERN Stack**  
 - 📫 Reach me: **mayankthakursingh39@gmail.com**  
-- 🌐 Portfolio: *Coming Soon*
+- 🌐 Portfolio: 
 
 ---
 
